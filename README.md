@@ -1,46 +1,22 @@
-# Hi there, I'm Pasidu Mihiranga 👋
+# Hi there, I'm Pasindu Mihiranga 👋
 
 ## About Me
 
-I'm a software engineering student at the **Institute of Software Engineering (IJSE)**, currently pursuing a **Graduate Diploma in Software Engineering**. I'm passionate about enhancing my skills and contributing to the software engineering industry.
+Passionate and driven undergraduate with a fervent enthusiasm for Python, Java programming, and web development. With a solid foundation in these technologies, I thrive on tackling challenging projects and continuously expanding my knowledge in the field of Information Technology.
 
 ## 🎓 Education
 
-- **Graduate Diploma in Software Engineering** at Institute of Software Engineering (IJSE)
-- Currently expanding my knowledge in software engineering practices and technologies
+- **Information Technology Undergraduate** at **University Of Moratuwa**
+- Currently pursuing my undergraduate degree with a focus on software development and technology
 
-## 💻 Skills
+## 💻 Skills & Interests
 
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- HTML
-- MySQL
-
-### Tools & Technologies
-- GitHub
-- Figma
-- IntelliJ IDEA
-- NetBeans
-- Photoshop
-
-## 🛠️ Services
-
-I offer the following services:
-
-- **Enterprise Application Development**
+- **Python Programming**
+- **Java Programming**
 - **Web Development**
-- **UI/UX Design**
-- **E-Commerce Solutions**
-- **Graphic Design**
-- **Mobile Application Development**
 
 ## 📫 Contact Me
 
-- **Mobile:** +94 778629191
-- **Email:** pamudumihiranga2002@gmail.com
-- **Location:** Matara, Sri Lanka
 - **Portfolio:** [https://pasidu-mihiranga.github.io/myPortfolio/](https://pasidu-mihiranga.github.io/myPortfolio/)
 
 ---
