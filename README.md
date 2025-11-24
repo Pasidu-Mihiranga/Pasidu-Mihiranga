@@ -2,35 +2,58 @@
 
 ## About Me
 
-Passionate and driven undergraduate with a fervent enthusiasm for Python, Java programming, and web development. With a solid foundation in these technologies, I thrive on tackling challenging projects and continuously expanding my knowledge in the field of Information Technology.
+I am a passionate Information Technology undergraduate at the University of Moratuwa, with a strong foundation in programming and web development. My journey in tech started with curiosity and has evolved into a deep love for solving complex problems through code. Whether it's building scalable web applications, implementing machine learning algorithms, or creating intuitive user interfaces, I approach each project with enthusiasm and attention to detail.
 
 ## 🎓 Education
 
-- **Information Technology Undergraduate** at **University Of Moratuwa**
-- Currently pursuing my undergraduate degree with a focus on software development and technology
+- **2023 - Present:** B.Sc. (Hons) in Information Technology, Faculty of Information Technology, University of Moratuwa
+- **2022:** G.C.E. Advanced Level, Richmond College-Galle (Physics - A | Chemistry - A | Combined Mathematics - B)
+- **2019:** G.C.E. Ordinary Level, Richmond College-Galle (9 A passes including Mathematics, Science, English)
 
-## 💻 Skills
+## 💻 Skills & Technologies
 
 ### Languages
-- Python
-- HTML
-- Java
-- JavaScript
-- MySQL
+- 🐍 Python
+- ☕ Java
+- 🔵 C
+- ⚡ C++
+- 📜 JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
 
-### Tools
-- GitHub
-- Figma
-- IntelliJ IDEA
-- NetBeans
-- Photoshop
+### Frameworks & Libraries
+- 🍃 Spring Boot
+- ⚛️ React
+- 📱 React Native
+- 🦋 Flutter
+- ⚡ Next.js
+- 🟢 Node.js
+- 🚂 Express
+- 🌶️ Flask
+- 🎸 Django
+- 🐼 Pandas
+- 💨 TailwindCSS
+
+### Version Control
+- 📦 Git
+- 🐙 GitHub
+
+### Databases
+- 🍃 MongoDB
+- 🗄️ MySQL
+- 🐘 PostgreSQL
+
+### Operating Systems
+- 🐧 Linux
+- 🪟 Windows
 
 ## 📫 Contact Me
 
-- **Mobile:** +94 778629191
-- **Email:** pamudumihiranga2002@gmail.com
-- **Location:** Matara, Sri Lanka
-- **Portfolio:** [https://pasidu-mihiranga.github.io/myPortfolio/](https://pasidu-mihiranga.github.io/myPortfolio/)
+- 📧 **Email:** ipamihir2003@gmail.com
+- 📱 **Phone:** +94 76 055 4321
+- 💼 **LinkedIn:** [linkedin.com/in/pasidu-mihiranga](https://linkedin.com/in/pasidu-mihiranga)
+- 🐙 **GitHub:** [github.com/Pasidu-Mihiranga](https://github.com/Pasidu-Mihiranga)
+- 🌐 **Portfolio:** [https://pasidu-mihiranga.github.io/myPortfolio/](https://pasidu-mihiranga.github.io/myPortfolio/)
 
 ---
 
