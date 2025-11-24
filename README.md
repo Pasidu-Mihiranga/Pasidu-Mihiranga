@@ -9,14 +9,27 @@ Passionate and driven undergraduate with a fervent enthusiasm for Python, Java p
 - **Information Technology Undergraduate** at **University Of Moratuwa**
 - Currently pursuing my undergraduate degree with a focus on software development and technology
 
-## 💻 Skills & Interests
+## 💻 Skills
 
-- **Python Programming**
-- **Java Programming**
-- **Web Development**
+### Languages
+- Python
+- HTML
+- Java
+- JavaScript
+- MySQL
+
+### Tools
+- GitHub
+- Figma
+- IntelliJ IDEA
+- NetBeans
+- Photoshop
 
 ## 📫 Contact Me
 
+- **Mobile:** +94 778629191
+- **Email:** pamudumihiranga2002@gmail.com
+- **Location:** Matara, Sri Lanka
 - **Portfolio:** [https://pasidu-mihiranga.github.io/myPortfolio/](https://pasidu-mihiranga.github.io/myPortfolio/)
 
 ---
