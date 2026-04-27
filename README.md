@@ -95,7 +95,7 @@ A passionate code enthusiast, Information Technology undergraduate of University
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
 </tr>
 </table>
 
